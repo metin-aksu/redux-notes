@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "note": "Test Note 1",
+        "color": "#F06292"
+    },
+    {
+        "id": 2,
+        "note": "Test Note 2\nTest Note 2\nTest Note 2\nTest Note 2\nTest Note 2\nTest Note 2\n",
+        "color": "#FFD550"
+    },
+    {
+        "id": 3,
+        "note": "Test Note 3\nTest Note 3\nTest Note 3\nTest Note 3\n",
+        "color": "#4FC3F7"
+    }
+]
